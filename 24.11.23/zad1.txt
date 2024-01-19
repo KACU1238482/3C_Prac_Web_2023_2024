@@ -1,0 +1,2 @@
+Korzyści jakie daje programistą używanie pętli są takie, że nie ma potrzeby powtarzania 
+tego same w kodzie, co znacznie skraca i optymalizuje czas pracy, kod wygląda też bardziej czytelnie i zrozumiale jeśli
